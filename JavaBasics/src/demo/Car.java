@@ -19,7 +19,7 @@ public class Car {
 		System.out.println("Today is Tuesday");
 		System.out.println(myFavoriteColor);
 		System.out.println("There is a " + colorfOfMercedes + " Mercedes in the parking lot");
-
+		//Adding a comment in line 22
 	}
 
 }
